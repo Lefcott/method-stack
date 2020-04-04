@@ -1,6 +1,6 @@
 {
   "name": "method-stack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gets a formatted method stack at any point of the code",
   "main": "index.js",
   "scripts": {
