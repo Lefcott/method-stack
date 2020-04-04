@@ -1,0 +1,30 @@
+{
+  "name": "method-stack",
+  "version": "1.0.0",
+  "description": "Gets a formatted method stack at any point of the code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lefcott19/method-stack.git"
+  },
+  "keywords": [
+    "method",
+    "stack",
+    "file",
+    "caller",
+    "function calls",
+    "require",
+    "call history",
+    "previous function",
+    "pretty stack"
+  ],
+  "author": "Leandro Cotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lefcott19/method-stack/issues"
+  },
+  "homepage": "https://github.com/lefcott19/method-stack#readme"
+}
